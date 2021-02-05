@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0E4VzjrVx/5D49LhSOvEncKWiNeU0pSnNy3Zw+WbNoCYZvk46QJCxEmHFVJs4TmrG+Kv8qYorS5P3J/Q7BAhw==",
+  "success": true,
+  "projectFilePath": "/Users/simonvargas/Xamarin/TravelRecordApp/TravelRecordApp/TravelRecordApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/simonvargas/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/simonvargas/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/simonvargas/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/simonvargas/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/simonvargas/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
